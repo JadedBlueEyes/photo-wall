@@ -93,10 +93,11 @@ body {
   margin: 1em;
   display: block;
   column-count: 3;
-  column-gap: 20px;
+  column-gap: 1em;
   box-sizing: border-box;
   img {
     display: inline-block;
+    margin-bottom: 1em;
   }
 }
 
